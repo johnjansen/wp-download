@@ -25,6 +25,10 @@ database dumps for all language edition you want:
 wp-download does *not* use setuptools but plain distutils, which gives you the
 following installation options.
 
+#### Temporary install process
+
+    pip install https://github.com/johnjansen/wp-download/zipball/master
+    
 ### setup.py
 
 Using setup.py means that you will download the source distribution file and
